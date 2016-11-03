@@ -94,7 +94,11 @@
         <github> k4le0</github>
         <group> KrZZIs3011Io</group>
 </student>
-
-
-
+<student>
+	<firstname> Maciej</firstname>
+	<lastname> Czerwonka</lastname>
+	<email> maciekczerwonka@gmail.com</email>
+	<github> czerwonkam</github>
+	<group> KrDZIS3011IO</group>
+</student>
 </students>
